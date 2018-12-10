@@ -106,7 +106,7 @@ $(function() {
                 balance: 89925
             }],
 
-            // The name of the data record attribute that contains x-balances.
+            // The name of the data record attribute that contains x-balances..
             xkey: "d",
             // A list of names of data record attributes that contain y-balances.
             ykeys: ["balance"],
